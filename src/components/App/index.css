@@ -1,0 +1,56 @@
+/* Page */
+.n7n-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.n7n-page--content {
+  flex: 0 0 100%;
+  max-width: 40rem;
+}
+
+/* Search */
+.n7n-search {
+  text-align: center;
+}
+
+.n7n-search--input {
+  text-align: center;
+}
+
+/* Total */
+.n7n-total {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 8rem;
+}
+
+.n7n-total--amount {
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 0.875;
+  margin-right: 0.5rem;
+}
+
+.n7n-total--icon {
+  font-size: 4rem;
+}
+
+.n7n-total-label {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+/* Attribution */
+.n7n-attribution {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  background-color: #f6f6f6;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.75rem;
+}
