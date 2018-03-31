@@ -4,5 +4,3 @@
 
 Example of fetching calorie counts from the Nutritionix API using the new React Context API
 
-- Add attribution
-- Show error and loading better
